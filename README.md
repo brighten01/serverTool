@@ -1,10 +1,10 @@
 #文件清单 
 
-#######1.checkport.js 是监控脚本
+####1.checkport.js 是监控脚本
 
-#######2.npminstall 安装所有插件
+####2.npminstall 安装所有插件
 
-#######3.register_user 注册用户
+####3.register_user 注册用户
 
 >另附：
 
